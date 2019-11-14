@@ -1,5 +1,5 @@
 import React from 'react';
-import DailyForecast from './DailyForecast';
+import DailyForecastWHook from './DailyForecastWHook';
 
 const WeatherCards = () => {
   return (
@@ -7,7 +7,7 @@ const WeatherCards = () => {
       <h1 className='mainTitle'>This is The Weather App</h1>
       <h2 className='cityTitle'>The Weather for San Mateo is: </h2>
       <div>
-        <DailyForecast className='card' />
+        <DailyForecastWHook className='card' />
       </div>
     </div>
   );
