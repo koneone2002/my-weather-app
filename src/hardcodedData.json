@@ -1,0 +1,160 @@
+{
+  "Headline": {
+    "EffectiveDate": "2019-11-06T19:00:00-08:00",
+    "EffectiveEpochDate": 1573095600,
+    "Severity": 7,
+    "Text": "Cool tonight",
+    "Category": "cold",
+    "EndDate": "2019-11-07T07:00:00-08:00",
+    "EndEpochDate": 1573138800,
+    "MobileLink": "http://m.accuweather.com/en/us/san-francisco-ca/94103/extended-weather-forecast/347629?lang=en-us",
+    "Link": "http://www.accuweather.com/en/us/san-francisco-ca/94103/daily-weather-forecast/347629?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2019-11-11T07:00:00-08:00",
+      "EpochDate": 1573484400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 76,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 34,
+        "IconPhrase": "Mostly clear",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=1&lang=en-us"
+    },
+    {
+      "Date": "2019-11-12T07:00:00-08:00",
+      "EpochDate": 1573570800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 70,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=2&lang=en-us"
+    },
+    {
+      "Date": "2019-11-13T07:00:00-08:00",
+      "EpochDate": 1573657200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 50,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 66,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=3&lang=en-us"
+    },
+    {
+      "Date": "2019-11-14T07:00:00-08:00",
+      "EpochDate": 1573743600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 50,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 63,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=4&lang=en-us"
+    },
+    {
+      "Date": "2019-11-15T07:00:00-08:00",
+      "EpochDate": 1573830000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 48,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 63,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 3,
+        "IconPhrase": "Partly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/us/san-mateo-ca/94401/daily-weather-forecast/337235?day=5&lang=en-us"
+    }
+  ]
+}
